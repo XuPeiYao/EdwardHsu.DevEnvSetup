@@ -17,3 +17,6 @@ choco install 7zip.install -y
 choco install microsoft-teams.install -y
 choco install cascadiacode -y
 choco install powertoys -y
+choco install kubernetes-cli -y
+choco install lens -y
+choco install docker-desktop -y
