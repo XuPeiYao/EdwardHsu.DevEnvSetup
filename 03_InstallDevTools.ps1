@@ -8,7 +8,7 @@ choco install vscode -y
 choco install visualstudio2022community -y --package-parameters "--locale Zh-tw --allWorkloads --includeRecommended"
 choco install resharper --pre -y
 choco install dbeaver -y
-choco install putty -y
+choco install putty.install -y
 choco install mremoteng -y
 choco install postman -y
 choco install microsoft-windows-terminal -y
