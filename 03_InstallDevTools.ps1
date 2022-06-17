@@ -22,6 +22,7 @@ choco install lens -y
 choco install docker-desktop -y
 choco install firefox -y
 choco install googlechrome -y
+choco install fiddler -y
 
 Invoke-WebRequest -Uri https://git-fork.com/update/win/ForkInstaller.exe -OutFile ForkInstaller.exe
 Start-Process -Filepath ForkInstaller.exe -ArgumentList "-s"
