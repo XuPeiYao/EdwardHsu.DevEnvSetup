@@ -5,6 +5,7 @@ choco install powertoys -y
 choco install dotnet-sdk -y
 choco install python3 -y
 choco install nodejs-lts -y
+choco install golang -y
 choco install notepadplusplus -y
 choco install dbeaver -y
 choco install microsoft-windows-terminal -y
