@@ -18,7 +18,7 @@ choco install firefox -y
 choco install googlechrome -y
 choco install vscode -y
 choco install visualstudio2022community -y --package-parameters "--locale Zh-tw --allWorkloads --includeRecommended"
-choco install resharper --pre -y
+choco install resharper -y
 choco install stylecop -y
 choco install kubernetes-cli -y
 choco install kubernetes-helm -y
