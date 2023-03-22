@@ -22,7 +22,7 @@ choco install resharper -y
 choco install stylecop -y
 choco install kubernetes-cli -y
 choco install kubernetes-helm -y
-choco install lens -y
+choco install openlens -y
 choco install docker-desktop -y
 choco install fiddler -y
 
