@@ -25,6 +25,7 @@ choco install kubernetes-helm -y
 choco install openlens -y
 choco install docker-desktop -y
 choco install fiddler -y
+choco install winscp -y
 
 Invoke-WebRequest -Uri https://git-fork.com/update/win/ForkInstaller.exe -OutFile ForkInstaller.exe
 Start-Process -Filepath ForkInstaller.exe -ArgumentList "-s"
