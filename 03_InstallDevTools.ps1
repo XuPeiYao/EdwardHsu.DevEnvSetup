@@ -25,6 +25,7 @@ choco install docker-desktop -y
 choco install fiddler -y
 choco install winscp -y
 choco install make -y
+choco install vlc -y
 choco install goland -y
 choco install visualstudio2022community -y --package-parameters "--locale Zh-tw --allWorkloads --includeRecommended"
 choco install resharper -y
