@@ -13,7 +13,6 @@ choco install putty.install -y
 choco install mremoteng -y
 choco install postman -y
 choco install 7zip.install -y
-choco install microsoft-teams.install -y
 choco install firefox -y
 choco install googlechrome -y
 choco install vscode -y
